@@ -1,2 +1,2 @@
 # Final-Project
-Menggunakan Bootstrap dengan Slider, Modal
+Menggunakan Bootstrap dengan Slider dan Modal
